@@ -1,0 +1,58 @@
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Lato", sans-serif;
+}
+
+.w3-bar, h1, button {
+  font-family: "Montserrat", sans-serif;
+}
+
+.fa-anchor, .fa-coffee {
+  font-size: 200px;
+}
+
+.separateur-droite {
+  border-right: 1px solid white;
+}
+
+div>img {
+  margin: auto;
+}
+
+#prevBT, #nextBT {
+  display: inline-block !important;
+}
+
+#panelTitre {
+  margin-top: 0;
+}
+
+footer {
+  width: 100%;
+}
+
+#register>p {
+  margin-top: 15vh;
+  font-size: 22px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+#cartCount {
+  font-size: 12px;
+  padding: 0 5px;
+  vertical-align: top;
+}
+
+input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
